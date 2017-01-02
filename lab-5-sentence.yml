@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: sentence-service
+subjectService: SUBJECT-SERVICE
+verbService: VERB-SERVICE
+articleService: ARTICLE-SERVICE
+adjectiveService: ADJECTIVE-SERVICE
+nounService: NOUN-SERVICE
